@@ -32,6 +32,13 @@ tags: [블로그]
 여기에 Markdown으로 본문을 작성합니다.
 ```
 
+## 알고리즘 정리
+
+왼쪽 메뉴의 [알고리즘](https://pt3000.github.io/algorithms/)에서 알고리즘 글을 모아 볼 수 있습니다.
+글의 front matter에 `categories: [알고리즘]`을 지정하면 목록에 자동으로 표시됩니다.
+세부 주제를 함께 분류하려면 `categories: [알고리즘, 정렬]`처럼 작성합니다.
+목록 페이지는 `_tabs/algorithms.md`에서 관리합니다.
+
 ## 로컬 실행과 배포
 
 Ruby 3.4와 Bundler를 준비한 뒤 저장소 루트에서 `bundle install`을 실행합니다.
