@@ -42,8 +42,11 @@ tags: [블로그]
 - 못 푼 문제들: `categories: [알고리즘, 못 푼 문제들]`
 - 알고리즘 정리: `categories: [알고리즘, 알고리즘 정리]`
 
+각 구역 안에서는 글의 `tags`별로 다시 묶어 보여 줍니다. 예: `tags: [백트래킹]`
+태그가 없는 글은 구역 맨 아래 "태그 없음"에 모입니다.
+
 글에 넣는 이미지는 `assets/img/algorithms/<글 슬러그>/`에 둡니다.
-목록 페이지는 `_tabs/algorithms.md`에서 관리합니다.
+목록 페이지는 `_tabs/algorithms.md`, 구역별 목록을 만드는 코드는 `_includes/algorithm-posts.md`에서 관리합니다.
 
 ## ABC 프로젝트
 
