@@ -5,7 +5,7 @@ order: 1
 permalink: /abc-project/
 ---
 
-ABC 프로젝트를 진행하며 정리한 글을 모았습니다.
+ABC 프로젝트를 진행하며 정리한 글을 모았다.
 
 {% assign abc_posts = site.categories['ABC 프로젝트'] %}
 {% if abc_posts.size > 0 %}
@@ -15,5 +15,5 @@ ABC 프로젝트를 진행하며 정리한 글을 모았습니다.
   {% endfor %}
 </ul>
 {% else %}
-아직 등록된 ABC 프로젝트 글이 없습니다.
+아직 등록된 ABC 프로젝트 글이 없다.
 {% endif %}
