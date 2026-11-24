@@ -2,6 +2,7 @@
 title: "알고리즘 BFS-DFS 유형"
 date: 2023-04-11 23:54:38 +0900
 categories: [알고리즘, 백준]
+tags: [BFS, DFS]
 ---
 
 DFS, BFS은 특징에 따라 사용에 더 적합한 문제 유형들이 있습니다.

@@ -2,6 +2,7 @@
 title: "[백준] 킥다운"
 date: 2025-09-22 23:14:36 +0900
 categories: [알고리즘, 백준]
+tags: [브루트포스]
 ---
 
 [https://www.acmicpc.net/problem/1195](https://www.acmicpc.net/problem/1195)

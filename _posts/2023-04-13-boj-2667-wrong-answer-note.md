@@ -2,6 +2,7 @@
 title: "[백준] 2667 오답노트"
 date: 2023-04-13 19:50:44 +0900
 categories: [알고리즘, 백준]
+tags: [BFS, DFS]
 ---
 
 [https://www.acmicpc.net/problem/2667](https://www.acmicpc.net/problem/2667)

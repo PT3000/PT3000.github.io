@@ -2,6 +2,7 @@
 title: "[백준] 램프"
 date: 2024-08-03 12:23:08 +0900
 categories: [알고리즘, 못 푼 문제들]
+tags: [브루트포스]
 ---
 
 [https://www.acmicpc.net/problem/1034](https://www.acmicpc.net/problem/1034)
