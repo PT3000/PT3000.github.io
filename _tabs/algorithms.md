@@ -5,7 +5,7 @@ order: 0
 permalink: /algorithms/
 ---
 
-알고리즘 개념과 풀이 방법을 정리한 글을 모았습니다.
+알고리즘 개념과 풀이 방법을 정리한 글을 모았다.
 
 {% assign algorithm_posts = site.categories['알고리즘'] %}
 {% if algorithm_posts.size > 0 %}
@@ -15,5 +15,5 @@ permalink: /algorithms/
   {% endfor %}
 </ul>
 {% else %}
-아직 등록된 알고리즘 글이 없습니다.
+아직 등록된 알고리즘 글이 없다.
 {% endif %}
