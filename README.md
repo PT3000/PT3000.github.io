@@ -35,8 +35,12 @@ tags: [블로그]
 ## 알고리즘 정리
 
 왼쪽 메뉴의 [알고리즘](https://pt3000.github.io/algorithms/)에서 알고리즘 글을 모아 볼 수 있습니다.
-글의 front matter에 `categories: [알고리즘]`을 지정하면 목록에 자동으로 표시됩니다.
-세부 주제를 함께 분류하려면 `categories: [알고리즘, 정렬]`처럼 작성합니다.
+목록은 풀이 사이트별로 나뉘며, 글의 front matter에 지정한 두 번째 카테고리로 구분합니다.
+
+- 백준: `categories: [알고리즘, 백준]`
+- 프로그래머스: `categories: [알고리즘, 프로그래머스]`
+
+글에 넣는 이미지는 `assets/img/algorithms/<글 슬러그>/`에 둡니다.
 목록 페이지는 `_tabs/algorithms.md`에서 관리합니다.
 
 ## ABC 프로젝트
