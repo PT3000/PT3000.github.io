@@ -1,0 +1,10 @@
+# Additions to the Chirpy theme's ko-KR locale.
+# Jekyll deep-merges this file over the theme's own `_data/locales/ko-KR.yml`,
+# so only the keys listed here are added; every other string keeps the theme default.
+
+tabs:
+  # The theme builds a tab page's browser title from `tabs[<page title, lowercased>]`
+  # and leaves it empty when the key is missing, so every custom tab needs an entry.
+  # format: <tab title in lowercase>: <title to display>
+  알고리즘: 알고리즘
+  abc 프로젝트: ABC 프로젝트
