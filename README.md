@@ -39,6 +39,13 @@ tags: [블로그]
 세부 주제를 함께 분류하려면 `categories: [알고리즘, 정렬]`처럼 작성합니다.
 목록 페이지는 `_tabs/algorithms.md`에서 관리합니다.
 
+## ABC 프로젝트
+
+왼쪽 메뉴의 [ABC 프로젝트](https://pt3000.github.io/abc-project/)에서 프로젝트 글을 모아 볼 수 있습니다.
+글의 front matter에 `categories: [ABC 프로젝트]`를 지정하면 목록에 자동으로 표시됩니다.
+카테고리 이름은 대소문자와 띄어쓰기까지 정확히 일치해야 합니다.
+목록 페이지는 `_tabs/abc-project.md`에서 관리합니다.
+
 ## 로컬 실행과 배포
 
 Ruby 3.4와 Bundler를 준비한 뒤 저장소 루트에서 `bundle install`을 실행합니다.
